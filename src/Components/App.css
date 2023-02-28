@@ -12,3 +12,8 @@
   font-weight: 600;
   color: #304294;
 }
+
+a {
+  color: rgb(180, 28, 36);
+  text-decoration: none;
+}
