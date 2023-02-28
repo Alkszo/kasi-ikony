@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kasi-ikony/static/css/main.9366dd04.css",
-    "main.js": "/kasi-ikony/static/js/main.0108aa15.js",
+    "main.js": "/kasi-ikony/static/js/main.c6534bfa.js",
     "static/js/787.45eb1fda.chunk.js": "/kasi-ikony/static/js/787.45eb1fda.chunk.js",
     "static/media/logotyp.png": "/kasi-ikony/static/media/logotyp.e5ff3579e6ce92efacce.png",
     "index.html": "/kasi-ikony/index.html",
     "main.9366dd04.css.map": "/kasi-ikony/static/css/main.9366dd04.css.map",
-    "main.0108aa15.js.map": "/kasi-ikony/static/js/main.0108aa15.js.map",
+    "main.c6534bfa.js.map": "/kasi-ikony/static/js/main.c6534bfa.js.map",
     "787.45eb1fda.chunk.js.map": "/kasi-ikony/static/js/787.45eb1fda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9366dd04.css",
-    "static/js/main.0108aa15.js"
+    "static/js/main.c6534bfa.js"
   ]
 }
